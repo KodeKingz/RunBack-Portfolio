@@ -94,3 +94,25 @@ My workflow includes:
 I built RunBack to explore the complete lifecycle of a community web application—from authentication and relational data storage to responsive UI, moderation workflows, and automated regression testing. It demonstrates practical full-stack development and security-aware engineering decisions.
 
 **Independent fan-community project. Not affiliated with Capcom or any fighting-game publisher.**
+
+## Application Screenshots
+
+Explore RunBack's interface, from finding your next rival to organizing matches and building a community.
+
+### Login & Registration
+![RunBack login screen](screenshots/01-login.png)
+
+### Fighter Discovery
+![RunBack fighter discovery](screenshots/02-discover.png)
+
+### Friends & Messaging
+![RunBack messaging](screenshots/03-messaging.png)
+
+### Gaming Sessions
+![RunBack sessions](screenshots/04-sessions.png)
+
+### Community Crews
+![RunBack crews](screenshots/05-crews.png)
+
+### Player Profiles
+![RunBack player profile](screenshots/06-profile.png)
