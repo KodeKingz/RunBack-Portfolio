@@ -1,0 +1,5 @@
+.runback-install{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom));z-index:50;background:#252833;box-shadow:0 4px 20px #0007;font-size:13px}
+.runback-install-dialog{max-width:480px;width:calc(100% - 32px);max-height:80dvh;overflow:auto;background:var(--surface);color:#f5f5f8;border:1px solid var(--line);border-radius:20px;padding:24px}
+.runback-install-dialog::backdrop{background:#000a}
+@media(display-mode:standalone){body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}.runback-install{display:none}}
+@media(max-width:600px){input,select,textarea{font-size:16px}.message-form{min-width:0}.message-form input{min-width:0}.panel,.main{min-width:0}body{padding-bottom:80px}#toast{bottom:calc(76px + env(safe-area-inset-bottom))}}
