@@ -74,6 +74,21 @@ This is an MVP. It does not include email verification, push notifications, voic
 
 Before a wider public launch, priorities include stronger anti-abuse controls, email verification, production monitoring and backups, privacy/community policies, and operational moderation.
 
+## AI-Assisted Development Workflow
+
+I incorporate AI-assisted tools into my software development workflow to accelerate prototyping, troubleshoot technical challenges, and improve development efficiency.
+
+My workflow includes:
+
+- **Planning:** Translating application ideas into technical requirements, features, and development milestones.
+- **Development:** Using AI-assisted coding tools to generate, review, and refine application components.
+- **Troubleshooting:** Investigating errors, evaluating suggested fixes, and iterating on solutions.
+- **Testing:** Using automated tests and manual application testing to validate functionality.
+- **Security awareness:** Reviewing authentication, authorization, data handling, and potential vulnerabilities before deployment.
+- **Continuous improvement:** Refining application features based on testing and feedback.
+
+**My approach:** AI accelerates development, while testing, technical understanding, and human oversight remain essential to delivering reliable software.
+
 ## About this project
 
 I built RunBack to explore the complete lifecycle of a community web application—from authentication and relational data storage to responsive UI, moderation workflows, and automated regression testing. It demonstrates practical full-stack development and security-aware engineering decisions.
